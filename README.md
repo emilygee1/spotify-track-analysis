@@ -4,3 +4,5 @@ As a music lover, Spotify enthusiast, and data scientist, I wanted to do some ex
 I conducted an exploratory analysis to see how the trends in music have changed over the last century and tried to predict whether or not a track is popular based on its audio characteristics.
 
 Learn more about the dataset from Kaggle [here](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks).
+
+**Note:** The Plotly graph doesn't show up in the notebook file because it is not a static image. View my full notebook here: https://nbviewer.jupyter.org/github/emilygee1/spotify-track-analysis/blob/main/spotify.ipynb
